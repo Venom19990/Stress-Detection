@@ -35,12 +35,15 @@ Summary:
   
 # Flask-App Deployment:
      Home Page InterFace on the App.
-           <img align="center" alt="coding" width="800" src="https://github.com/Venom19990/Stress-Detection-Using-Machine-Learning/blob/main/Screenshot%20(529).png">
-           
-           
-           <img align="center" alt="coding" width="800" src="https://github.com/Venom19990/Stress-Detection-Using-Machine-Learning/blob/main/Screenshot%20(526).png">
-           
-           <img align="center" alt="coding" width="800" src="https://github.com/Venom19990/Stress-Detection-Using-Machine-Learning/blob/main/Screenshot%20(528).png">
+   <img align="center" alt="coding" width="800" src="https://github.com/Venom19990/Stress-Detection-Using-Machine-Learning/blob/main/Screenshot%20(529).png">
+   
+   
+   
+   <img align="center" alt="coding" width="800" src="https://github.com/Venom19990/Stress-Detection-Using-Machine-Learning/blob/main/Screenshot%20(526).png">
+   
+   
+   
+   <img align="center" alt="coding" width="800" src="https://github.com/Venom19990/Stress-Detection-Using-Machine-Learning/blob/main/Screenshot%20(528).png">
            
            
 # Motivation and purpose of the project:
