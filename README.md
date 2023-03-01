@@ -38,11 +38,11 @@ Summary:
    <img align="center" alt="coding" width="800" src="https://github.com/Venom19990/Stress-Detection-Using-Machine-Learning/blob/main/Screenshot%20(529).png">
    
    
-   
+ # Result 1:
    <img align="center" alt="coding" width="800" src="https://github.com/Venom19990/Stress-Detection-Using-Machine-Learning/blob/main/Screenshot%20(526).png">
    
    
-   
+ # Result 2:  
    <img align="center" alt="coding" width="800" src="https://github.com/Venom19990/Stress-Detection-Using-Machine-Learning/blob/main/Screenshot%20(528).png">
            
            
